@@ -1,0 +1,14 @@
+{
+  "name": "spex-playground",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A tiny project for exercising Spex delivery playbooks end to end",
+  "type": "module",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
